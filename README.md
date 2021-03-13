@@ -2,5 +2,5 @@
 
 [![Cppcheck](https://github.com/99003756/try/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003756/try/actions/workflows/cppcheck.yml)
 
-[![Cppcheck](https://github.com/99003756/try/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003756/try/actions/workflows/cppcheck.yml)
+
 
