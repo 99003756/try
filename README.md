@@ -7,3 +7,5 @@
 
 
 [![Unit Testing - Unity](https://github.com/99003756/try/actions/workflows/unity.yml/badge.svg)](https://github.com/99003756/try/actions/workflows/unity.yml)
+
+[![Contribution Check - Git Inspector](https://github.com/99003756/try/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/99003756/try/actions/workflows/gitinspector.yml)
