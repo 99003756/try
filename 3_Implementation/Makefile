@@ -5,10 +5,8 @@ PROJECT_NAME = Calculator
 BUILD = build
  
 # All source code files
-SRC = src/basic_trig.c\
-src/main.c\
-src/bintodec.c\
-src/math_functions.c\
+SRC = src/aman.c\
+src/arithmetic_sourav.c\
 test/test_calculator_operations.c\
 unity/unity.c
  
